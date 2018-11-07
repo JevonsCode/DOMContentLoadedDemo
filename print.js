@@ -1,1 +1,1 @@
-console.log('打印出来了>>>>>>>>>>')
+console.log('print>>>>>>>>>>')
